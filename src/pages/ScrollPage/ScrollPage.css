@@ -1,0 +1,51 @@
+.sect
+{
+    height: 100vh;
+    scroll-snap-align: start;
+}
+
+.scroll-page-container
+{
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+.page-one
+{
+    background-color: var(--web-purple);
+}
+
+.page-one-content
+{
+    height: fit-content;
+}
+.page-two
+{
+    background-color: var(--web-indigo);
+}
+
+.page-three
+{
+    background-color: var(--web-blue);
+}
+
+.page-four
+{
+    background-color: var(--web-aqua);
+}
+
+.page-five
+{
+    background-color: var(--web-pink);
+}
+
+.page-six
+{
+    background-color: var(--web-peach);
+}
+
+.page-seven
+{
+    background-color: var(--web-cream);
+}

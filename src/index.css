@@ -1,3 +1,6 @@
+@import '../src/styles/commonClasses.css';
+@import '../src/styles/variables.css';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +8,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+#section1 {
+  color: #fff;
+}
+
+.section{
+  height: 100vh;
+  
+}
+
+.fp-section {
+  text-align: center;
 }
 
 code {

@@ -1,0 +1,9 @@
+.header-stripes
+{
+    display: flex;
+}
+
+.header-single-stripe
+{
+    height: 100%;
+}

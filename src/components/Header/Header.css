@@ -1,0 +1,36 @@
+.header-container
+{
+    background-color: #FFF7FE;
+    height: 150px;
+    width: 100%;
+}
+
+.header-content-container
+{
+    height: 60%;
+    width: 1300px;
+    display: flex;
+}
+
+.header-vg-logo-container
+{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    height: 100%;
+    width: 25%;
+   
+}
+
+.header-vg-logo
+{
+    margin-left: 10px;
+    height: 70px;
+    object-fit: contain;
+}
+
+.header-stripes-container
+{
+    display: flex;
+    flex: 3;
+}
